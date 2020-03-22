@@ -1,0 +1,4 @@
+theme = "hyde"
+baseURL = "http://code.justinmarciszewski.me"
+languageCode = "en-us"
+title = "Justin Marciszewski's Code Website"
