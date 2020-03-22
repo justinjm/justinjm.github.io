@@ -1,4 +1,16 @@
 theme = "hyde"
-baseURL = "http://code.justinmarciszewski.me"
+baseURL = "http://code.justinmarciszewski.me/"
 languageCode = "en-us"
-title = "Justin Marciszewski's Code Website"
+title = "Justin Marciszewski"
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/justinjm/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/justinmarciszewski/"},
+      {Name = "Personal Site", URL = "https://www.justinmarciszewski.me"},
+  ]
+
+[params]
+  description = "My code website"
+
+googleAnalytics = "UA-161482740-1"
