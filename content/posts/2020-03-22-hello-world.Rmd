@@ -1,0 +1,17 @@
+---
+title: Hello World
+author: Justin Marciszewski
+date: '2020-03-22'
+slug: hello-world
+categories:
+  - Development
+tags:
+  - Development
+  - golang
+---
+
+Welcome to my code website :)
+
+Click [here](https://www.justinmarciszewski.me/) to learn more about me.
+
+Thank you for visiting!

@@ -1,19 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Justin Marciszewski</title>
-    <link>http://localhost:4321/</link>
-    <description>Recent content on Justin Marciszewski</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:4321/post/hello-world/</link>
-      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/hello-world/</guid>
-      <description>&lt;p&gt;Welcome to my code website :)&lt;/p&gt;&#xA;&lt;p&gt;Click &lt;a href=&#34;https://www.justinmarciszewski.me/&#34;&gt;here&lt;/a&gt; or on the sidebar to the left to learn more about me.&lt;/p&gt;&#xA;&lt;p&gt;Thank you for visiting!&lt;/p&gt;</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Justin Marciszewski</title>
+		<link>http://localhost:4321/</link>
+		<description>Recent content on Justin Marciszewski</description>
+		<generator>Hugo -- 0.146.0</generator>
+		<language>en-us</language>
+		<lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate>
+		<atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+		
+		
+		<item>
+			<title>About</title>
+			<link>http://localhost:4321/about/</link>
+			<pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate><guid>http://localhost:4321/about/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<p>Hi, I&rsquo;m Justin Marciszewski. Welcome to my code website.</p>
+<p>You can find me on <a href="https://github.com/justinjm/">GitHub</a> and <a href="https://www.linkedin.com/in/justinmarciszewski/">LinkedIn</a>, or visit my <a href="https://www.justinmarciszewski.me">personal site</a>.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Hello World</title>
+			<link>http://localhost:4321/posts/hello-world/</link>
+			<pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate><author>Justin Marciszewski</author><guid>http://localhost:4321/posts/hello-world/</guid>
+			<description>&lt;p&gt;Welcome to my code website :)&lt;/p&gt;
+&lt;p&gt;Click &lt;a href=&#34;https://www.justinmarciszewski.me/&#34;&gt;here&lt;/a&gt; or on the sidebar to the left to learn more about me.&lt;/p&gt;
+&lt;p&gt;Thank you for visiting!&lt;/p&gt;</description><content type="text/html" mode="escaped"><![CDATA[
+
+
+<p>Welcome to my code website :)</p>
+<p>Click <a href="https://www.justinmarciszewski.me/">here</a> or on the sidebar to the left to learn more about me.</p>
+<p>Thank you for visiting!</p>
+]]></content>
+		</item>
+		
+	</channel>
 </rss>

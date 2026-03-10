@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:4321/about/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/categories/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -17,13 +20,13 @@
     <loc>http://localhost:4321/categories/golang/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/post/hello-world/</loc>
+    <loc>http://localhost:4321/posts/hello-world/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/post/</loc>
+    <loc>http://localhost:4321/posts/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/</loc>
