@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "Bash(xargs cat)",
+      "Bash(git submodule add -b main https://github.com/1bl4z3r/hermit-V2 themes/hermit-v2)",
+      "Bash(hugo)"
+    ]
+  }
+}
