@@ -2,35 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 	<channel>
 		<title>Justin Marciszewski</title>
-		<link>https://code.justinmarciszewski.me/</link>
+		<link>http://localhost:4321/</link>
 		<description>Recent content on Justin Marciszewski</description>
 		<generator>Hugo -- 0.146.0</generator>
 		<language>en-us</language>
-		<lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate>
-		<atom:link href="https://code.justinmarciszewski.me/index.xml" rel="self" type="application/rss+xml" />
+		<lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
+		<atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
 		
 		
 		<item>
-			<title>About</title>
-			<link>https://code.justinmarciszewski.me/about/</link>
-			<pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate><guid>https://code.justinmarciszewski.me/about/</guid>
-			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<p>Hi, I&rsquo;m Justin Marciszewski. Welcome to my code website.</p>
-<p>You can find me on <a href="https://github.com/justinjm/">GitHub</a> and <a href="https://www.linkedin.com/in/justinmarciszewski/">LinkedIn</a>, or visit my <a href="https://www.justinmarciszewski.me">personal site</a>.</p>
+			<title>Code</title>
+			<link>http://localhost:4321/code/</link>
+			<pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate><guid>http://localhost:4321/code/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h2 id="r-packages">R Packages<a href="#r-packages" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round" class="feather">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<h3 id="googlecloudvertexair">googleCloudVertexAIR<a href="#googlecloudvertexair" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round" class="feather">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p><a href="https://code.justinmarciszewski.me/googleCloudVertexAIR/">Google Cloud Vertex AI API Into R • googleCloudVertexAIR</a> - use R to interact with Google Cloud Vertex AI API</p>
+<h3 id="googlecloudautomltables">googleCloudAutoMLTables<a href="#googlecloudautomltables" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round" class="feather">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p><a href="https://code.justinmarciszewski.me/googleCloudAutoMLTablesR/">Google Cloud AutoML Tables API Into R • googleCloudAutoMLTablesR</a> - use R to interact with Google Cloud AutoML Tables API (deprecated)</p>
 ]]></content>
 		</item>
 		
 		<item>
-			<title>Hello World</title>
-			<link>https://code.justinmarciszewski.me/posts/hello-world/</link>
-			<pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate><author>Justin Marciszewski</author><guid>https://code.justinmarciszewski.me/posts/hello-world/</guid>
-			<description>&lt;p&gt;Welcome to my code website :)&lt;/p&gt;
-&lt;p&gt;Click &lt;a href=&#34;https://www.justinmarciszewski.me/&#34;&gt;here&lt;/a&gt; or on the sidebar to the left to learn more about me.&lt;/p&gt;
-&lt;p&gt;Thank you for visiting!&lt;/p&gt;</description><content type="text/html" mode="escaped"><![CDATA[
-
-
-<p>Welcome to my code website :)</p>
-<p>Click <a href="https://www.justinmarciszewski.me/">here</a> or on the sidebar to the left to learn more about me.</p>
-<p>Thank you for visiting!</p>
+			<title>About</title>
+			<link>http://localhost:4321/about/</link>
+			<pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate><guid>http://localhost:4321/about/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<p>Hi, I&rsquo;m Justin Marciszewski. Welcome to my code website.</p>
+<p>You can find me on <a href="https://github.com/justinjm/">GitHub</a> and <a href="https://www.linkedin.com/in/justinmarciszewski/">LinkedIn</a>, or visit my <a href="https://www.justinmarciszewski.me">personal site</a>.</p>
 ]]></content>
 		</item>
 		

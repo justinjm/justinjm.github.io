@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://code.justinmarciszewski.me/sitemap.xml
+Sitemap: http://localhost:4321/sitemap.xml
