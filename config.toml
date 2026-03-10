@@ -1,4 +1,4 @@
-baseURL = "http://code.justinmarciszewski.me/"
+baseURL = "https://code.justinmarciszewski.me/"
 languageCode = "en-us"
 title = "Justin Marciszewski"
 theme = "hermit-v2"
