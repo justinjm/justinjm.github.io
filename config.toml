@@ -5,6 +5,8 @@ theme = "hermit-v2"
 enableRobotsTXT = true
 googleAnalytics = "G-YWFFDZKCSJ"
 
+publishDir = "docs"
+
 [params]
   homeSubtitle = "My code website"
   readTime = true
