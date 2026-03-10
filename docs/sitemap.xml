@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/about/</loc>
+    <loc>https://code.justinmarciszewski.me/about/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/</loc>
+    <loc>https://code.justinmarciszewski.me/categories/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/development/</loc>
+    <loc>https://code.justinmarciszewski.me/categories/development/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/development/</loc>
+    <loc>https://code.justinmarciszewski.me/tags/development/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/golang/</loc>
+    <loc>https://code.justinmarciszewski.me/tags/golang/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/golang/</loc>
+    <loc>https://code.justinmarciszewski.me/categories/golang/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/posts/hello-world/</loc>
+    <loc>https://code.justinmarciszewski.me/posts/hello-world/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/</loc>
+    <loc>https://code.justinmarciszewski.me/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/posts/</loc>
+    <loc>https://code.justinmarciszewski.me/posts/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/</loc>
+    <loc>https://code.justinmarciszewski.me/tags/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
   </url>
 </urlset>

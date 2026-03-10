@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 	<channel>
 		<title>Tags on Justin Marciszewski</title>
-		<link>http://localhost:4321/tags/</link>
+		<link>https://code.justinmarciszewski.me/tags/</link>
 		<description>Recent content in Tags on Justin Marciszewski</description>
 		<generator>Hugo -- 0.146.0</generator>
 		<language>en-us</language>
 		<lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate>
-		<atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://code.justinmarciszewski.me/tags/index.xml" rel="self" type="application/rss+xml" />
 		
 		
 		<item>
 			<title>Development</title>
-			<link>http://localhost:4321/tags/development/</link>
-			<pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate><guid>http://localhost:4321/tags/development/</guid>
+			<link>https://code.justinmarciszewski.me/tags/development/</link>
+			<pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate><guid>https://code.justinmarciszewski.me/tags/development/</guid>
 			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[]]></content>
 		</item>
 		
 		<item>
 			<title>Golang</title>
-			<link>http://localhost:4321/tags/golang/</link>
-			<pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate><guid>http://localhost:4321/tags/golang/</guid>
+			<link>https://code.justinmarciszewski.me/tags/golang/</link>
+			<pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate><guid>https://code.justinmarciszewski.me/tags/golang/</guid>
 			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[]]></content>
 		</item>
 		
